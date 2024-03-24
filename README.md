@@ -5,4 +5,5 @@ How to use:
 2. Extract the files.
 3. Bookmark the index.html files for each game.
 4. Have Fun!
-I'll add the games in the next update
+
+*I'll add the games in the next update
